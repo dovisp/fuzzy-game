@@ -1,1 +1,3 @@
-# fuzzy-game
+# Fuzzy-game
+
+# My test project ;D
